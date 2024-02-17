@@ -1,0 +1,21 @@
+D:\repos\Smart Home App\Smart Home App\bin\Debug\Smart Home App.exe.config
+D:\repos\Smart Home App\Smart Home App\bin\Debug\Smart Home App.exe
+D:\repos\Smart Home App\Smart Home App\bin\Debug\Smart Home App.pdb
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.AssemblyReference.cache
+D:\repos\Smart Home App\Smart Home App\obj\Debug\UserControls\Card.baml
+D:\repos\Smart Home App\Smart Home App\obj\Debug\MainWindow.g.cs
+D:\repos\Smart Home App\Smart Home App\obj\Debug\UserControls\Card.g.cs
+D:\repos\Smart Home App\Smart Home App\obj\Debug\App.g.cs
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.cache
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.lref
+D:\repos\Smart Home App\Smart Home App\obj\Debug\App.baml
+D:\repos\Smart Home App\Smart Home App\obj\Debug\MainWindow.baml
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.g.resources
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart_Home_App.Properties.Resources.resources
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.GenerateResource.cache
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.CoreCompileInputs.cache
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.exe
+D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.pdb
+D:\repos\Smart Home App\Smart Home App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.baml
+D:\repos\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.g.cs
