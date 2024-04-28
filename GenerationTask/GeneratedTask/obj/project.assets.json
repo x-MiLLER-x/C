@@ -505,11 +505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\GenerationTask\\GeneratedTask\\GeneratedTask.csproj",
+      "projectUniqueName": "D:\\Desktop\\C\\GenerationTask\\GeneratedTask\\GeneratedTask.csproj",
       "projectName": "GeneratedTask",
-      "projectPath": "D:\\Desktop\\GenerationTask\\GeneratedTask\\GeneratedTask.csproj",
+      "projectPath": "D:\\Desktop\\C\\GenerationTask\\GeneratedTask\\GeneratedTask.csproj",
       "packagesPath": "C:\\Users\\nitro\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\GenerationTask\\GeneratedTask\\obj\\",
+      "outputPath": "D:\\Desktop\\C\\GenerationTask\\GeneratedTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
