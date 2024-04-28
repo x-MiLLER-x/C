@@ -1,0 +1,14 @@
+C:\Users\nitro\source\repos\coursera1\coursera8\bin\Debug\net6.0\coursera8.exe
+C:\Users\nitro\source\repos\coursera1\coursera8\bin\Debug\net6.0\coursera8.deps.json
+C:\Users\nitro\source\repos\coursera1\coursera8\bin\Debug\net6.0\coursera8.runtimeconfig.json
+C:\Users\nitro\source\repos\coursera1\coursera8\bin\Debug\net6.0\coursera8.dll
+C:\Users\nitro\source\repos\coursera1\coursera8\bin\Debug\net6.0\coursera8.pdb
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.AssemblyInfoInputs.cache
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.AssemblyInfo.cs
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.csproj.CoreCompileInputs.cache
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.dll
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\refint\coursera8.dll
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.pdb
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\coursera8.genruntimeconfig.cache
+C:\Users\nitro\source\repos\coursera1\coursera8\obj\Debug\net6.0\ref\coursera8.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PmgfFr9N9lfla/zy1OUS0OqWPm7TciXsSg8Yh6eXxqSURb+NTBdeDYLilRXR3pO4np02Zrdv4LLecNenZFOITQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\C\\Algorithms Princeton University\\coursera3\\coursera3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nitro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nitro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nitro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\nitro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
