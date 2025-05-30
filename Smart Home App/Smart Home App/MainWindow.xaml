@@ -38,10 +38,12 @@
                     <StackPanel>
 
                         <Button Style="{StaticResource menuButton}"
+                                x:Name="btnHome"
+                                Tag="Home"
                                 Margin="15 20 15 20"
-                                Background="#ffffff">
-
-
+                                Background="#ffffff"
+                                Click="MenuButton_Click">
+                                
                             <Button.Triggers>
                                 <EventTrigger RoutedEvent="Button.Click">
                                     <BeginStoryboard>
@@ -74,7 +76,12 @@
                                    Width="20" />
                         </Button>
 
-                        <Button Style="{StaticResource menuButton}">
+                        <Button Style="{StaticResource menuButton}"
+                                x:Name="btnGenerate"
+                                Tag="Generate"
+                                Background="#437921"
+                                Click="MenuButton_Click">
+                            
                             <Button.Triggers>
                                 <EventTrigger RoutedEvent="Button.Click">
                                     <BeginStoryboard>
@@ -106,12 +113,20 @@
                                    Width="20" />
                         </Button>
 
-                        <Button Style="{StaticResource menuButton}">
+                        <Button Style="{StaticResource menuButton}"
+                                x:Name="btnUser"
+                                Tag="User"
+                                Background="#437921"
+                                Click="MenuButton_Click">
                             <Image Source="/Images/user-3.png"
                                    Width="20" />
                         </Button>
 
-                        <Button Style="{StaticResource menuButton}">
+                        <Button Style="{StaticResource menuButton}"
+                                x:Name="btnSaved"
+                                Tag="Saved"
+                                Background="#437921"
+                                Click="MenuButton_Click">   
                             <Image Source="/Images/saved-3.png"
                                    Width="20" />
                         </Button>
@@ -120,7 +135,8 @@
 
                     <Button Style="{StaticResource menuButton}"
                             Margin="15 0 15 15"
-                            VerticalAlignment="Bottom">
+                            VerticalAlignment="Bottom"
+                            Click="MenuButton_Click">
                         <Image Source="/Images/logout-3.png"
                                Width="20" />
                     </Button>

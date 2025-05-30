@@ -19,3 +19,47 @@ D:\repos\Smart Home App\Smart Home App\obj\Debug\Smart Home App.pdb
 D:\repos\Smart Home App\Smart Home App\obj\Debug\GeneratedInternalTypeHelper.g.cs
 D:\repos\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.baml
 D:\repos\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.g.cs
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\bin\Debug\Smart Home App.exe.config
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\bin\Debug\Smart Home App.exe
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\bin\Debug\Smart Home App.pdb
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.AssemblyReference.cache
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.exe.config
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.baml
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\UserControls\Card.baml
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\MainWindow.g.cs
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.g.cs
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\UserControls\Card.g.cs
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\App.g.cs
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.cache
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.lref
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\App.baml
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\MainWindow.baml
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.g.resources
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart_Home_App.Properties.Resources.resources
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.GenerateResource.cache
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.CoreCompileInputs.cache
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.exe
+D:\Desktop\C-main\C-main\Smart Home App\Smart Home App\obj\Debug\Smart Home App.pdb
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\bin\Debug\Smart Home App.exe.config
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\bin\Debug\Smart Home App.exe
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\bin\Debug\Smart Home App.pdb
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.AssemblyReference.cache
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.exe.config
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.baml
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\UserControls\Card.baml
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\MainWindow.g.cs
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\UserControls\AddButton.g.cs
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\UserControls\Card.g.cs
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\App.g.cs
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.cache
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App_MarkupCompile.lref
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\App.baml
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\MainWindow.baml
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.g.resources
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart_Home_App.Properties.Resources.resources
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.GenerateResource.cache
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.csproj.CoreCompileInputs.cache
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.exe
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\Smart Home App.pdb

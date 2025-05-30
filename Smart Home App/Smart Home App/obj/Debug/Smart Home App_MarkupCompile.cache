@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Desktop\C\Smart Home App\Smart Home App\obj\Debug\
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\obj\Debug\
 Smart_Home_App
 none
 false
 DEBUG;TRACE
-D:\Desktop\C\Smart Home App\Smart Home App\App.xaml
+C:\Users\nitro\Source\Repos\C\Smart Home App\Smart Home App\App.xaml
 31276872476
 
-8-1009738936
+71072349682
 13-1310406943
 MainWindow.xaml;UserControls\AddButton.xaml;UserControls\Card.xaml;
 
-True
+False
 

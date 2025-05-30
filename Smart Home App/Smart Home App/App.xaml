@@ -82,7 +82,7 @@
                 <Setter.Value>
                     <ControlTemplate TargetType="ToggleButton">
                         <Grid>
-                            <Border x:Name="Border" Background="#3256f1" CornerRadius="13" Width="50" Height="26"
+                            <Border x:Name="Border" Background="#437921" CornerRadius="13" Width="50" Height="26"
                                     VerticalAlignment="Center" HorizontalAlignment="Center"/>
                             <Ellipse x:Name="Ellipse" Fill="#fbfbfb" Height="24" Width="24" Margin="25 0 0 0"
                                      HorizontalAlignment="Left" VerticalAlignment="Center"/>
@@ -110,7 +110,7 @@
                                         <Storyboard>
                                             <ColorAnimation Storyboard.TargetName="Border"
                                                             Storyboard.TargetProperty="(Border.Background).(SolidColorBrush.Color)"
-                                                            To="#3256f1"
+                                                            To="#437921"
                                                             Duration="0:0:0:.2" />
                                             <ThicknessAnimation Storyboard.TargetName="Ellipse"
                                                                 Storyboard.TargetProperty="Margin"
